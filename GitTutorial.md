@@ -1,8 +1,8 @@
 # This is my git Tutorial 
-### basic commands we learned from the first lesson 
+### basic commands we learned from the first lesson: 
 * *git init* - команда для создания репозитория
-* *git status*
-* *git add*
-* *git commit*
-* *git log*
-* *git checkout*
+* *git status* - команда для проверки текущего состояния репозитория
+* *git add* - команда для "сохранения" текущего состояния проекта в истории коммитов
+* *git commit* - команда для записи индексированных изменений в репозиторий
+* *git log* - команда для просмотра истории коммитов
+* *git checkout* - команда для проверки старых коммитов 
