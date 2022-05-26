@@ -34,4 +34,6 @@
 
 * Слияние веток
 
+1. To merge branches use command *git merge branch_name*
+
 * Конфликты при слиянии и их разрешение 
