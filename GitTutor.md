@@ -29,6 +29,9 @@
 
 * Создание новой ветки и преходы между ветками 
 
+1. To create new branch use command *git branch branch_name*
+2. Use command *git checkout branch_name* to switch between branches
+
 * Слияние веток
 
 * Конфликты при слиянии и их разрешение 
