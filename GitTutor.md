@@ -39,10 +39,10 @@
 * To merge branches use command *git merge branch_name*
 * Before merging make sure that you checked out the branch you wish to merge into. 
 
-3.  Merge conglicts and resolutions
+3.  Merge conflicts and resolutions
 
 *  Conflicts appers when git is unable to merge parts cleanly if there are different changes in the same parts of the same file in the two merging branches. 
 
-4. Branch delating 
-
+4. Branch deleting 
+To delete branch use comand *git branch -d branch_name* 
 5. Summary
