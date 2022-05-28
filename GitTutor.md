@@ -37,6 +37,7 @@
 2. Branch merging
 
 * To merge branches use command *git merge branch_name*
+* Before merging make sure that you checked out the branch you wish to merge into. 
 
 3.  Merge conglicts and resolutions
 
