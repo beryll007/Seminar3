@@ -25,13 +25,21 @@
      * Как изменить message в уже отправленном коммите?
         * Как сделать чек-лист в md. документе?
 
+
 # Second Seminar
 
-* Создание новой ветки и преходы между ветками 
+1. Creating of new branches and switching between them 
 
-1. To create new branch use command *git branch branch_name*
-2. Use command *git checkout branch_name* to switch between branches
+* To create new branch use command *git branch branch_name*
+* Use command *git checkout branch_name* to switch between branches
+* You can use command *git checkout -b branch_name* to switch to a new branch. This is shortland for two command mentioned above. 
 
-* Слияние веток
+2. Слияние веток
 
-* Конфликты при слиянии и их разрешение 
+* To merge branches use command *git merge branch_name*
+
+3.  Конфликты при слиянии и их разрешение 
+
+*  Конфликты при слиянии возникают при наличии противоречащих коммитов с сливаемых ветках.
+
+4. Итоги семинара
