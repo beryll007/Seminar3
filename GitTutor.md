@@ -41,3 +41,5 @@
 1. Конфликты при слиянии возникают при наличии противоречащих коммитов с сливаемых ветках.
 
 * Итоги семинара
+
+Now we know how to create branches, switch between them, merge and delete unnecessary branches.  
