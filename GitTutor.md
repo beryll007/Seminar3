@@ -44,5 +44,9 @@
 *  Conflicts appers when git is unable to merge parts cleanly if there are different changes in the same parts of the same file in the two merging branches. 
 
 4. Branch deleting 
-To delete branch use comand *git branch -d branch_name* 
+
+* To delete branch use comand *git branch -d branch_name* 
+
 5. Summary
+
+
