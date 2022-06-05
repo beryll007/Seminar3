@@ -56,3 +56,24 @@
 
 ### Working with remotes 
 
+1. Showing remotes
+
+- Use command *git remote* to see which remotes servers you have configured
+
+2. Adding remote depositories 
+
+- *git remote add (shortname) (url)* Use this command to add a new remote Git repository. 
+- command *git clone* will add the copy of remote repository to your local repository with the name *origin* as a default name 
+
+3. Pulling from your Remotes
+
+- If your current branch is set up to track a remote branch using *git pull* command will automatically fetch and then merge that remote branch into your current branch.
+
+4. Pushing to Remotes
+
+- *git push* command will send all changes from your local repository to remote one 
+
+5. Renaming and removings Remotes 
+
+- You can run *git remote rename (first_name) (desired_name)* to change a remote’s shortname.
+- *git remote remove* or *git remote rm* will remove a remote
