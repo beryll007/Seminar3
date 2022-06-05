@@ -49,6 +49,10 @@
 
 5. Summary
 
-* Now we know how to create branches, switch between them, merge and delete unnecessary branches.  
+* Now we know how to create branches, switch between them, merge and delete unnecessary branches. 
 
-test message
+---
+# Third Seminar
+
+### Working with remotes 
+
